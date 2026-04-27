@@ -1,4 +1,4 @@
-This calculates final grades for the class NEUR380L, weighting each assignment within each category (i.e., IRAs, TRAs, Clinical Case Sets) equally.
+This notebook calculates each student's final average grade and average assignment category grades for the class NEUR380L, weighting each assignment within each assignment category (i.e., IRAs, TRAs, Clinical Case Sets) equally.
 
 Steps:
 1. Export the Canvas gradebook (Canvas course page -> Grades -> Export -> Export Entire Gradebook.)
